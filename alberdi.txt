@@ -5,4 +5,8 @@ Hola soy mauri y si, es una prueba
 HOla esto es una prueba 
 
 Salu2
+<<<<<<< HEAD
 Esto va a dar error
+=======
+ajjajajja
+>>>>>>> bab84edb690f0b0502e4d50f883b7032def1e78a
